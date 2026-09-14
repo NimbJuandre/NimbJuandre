@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NimbJuandre&label=Profile%20views&color=0e75b6&style=flat" alt="NimbJuandre" /> </p>
 
-- 🔭 I’m currently working on **TeachersPet**
-
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **nimbjuandre@gmail.com**
 
 
